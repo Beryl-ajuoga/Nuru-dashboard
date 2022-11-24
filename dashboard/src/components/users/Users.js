@@ -5,7 +5,7 @@ import { IoSettings } from "react-icons/io5";
 // import prof from "/home/student/nuru_frontend/dashboard/src/image/profile.jpeg";
 import { VscBell } from "react-icons/vsc";
 import { Link } from 'react-router-dom';
-import Searchbar from "../Searchbar/Searchbar.jsx";
+// import Searchbar from "../Searchbar/Searchbar.jsx";
 import SendMessage from '../SendMessage';
 // import { searching } from '../Searchbar/Searchbar.jsx';
 
